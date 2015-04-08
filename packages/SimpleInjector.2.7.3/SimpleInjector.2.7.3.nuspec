@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SimpleInjector</id>
+    <version>2.7.3</version>
+    <title>Simple Injector</title>
+    <authors>Simple Injector Contributors</authors>
+    <owners>Simple Injector Contributors</owners>
+    <licenseUrl>https://simpleinjector.codeplex.com/license</licenseUrl>
+    <projectUrl>https://simpleinjector.org/</projectUrl>
+    <iconUrl>https://simpleinjector.org/simpleinjector.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Injector is an easy, flexible and fast dependency injection library that uses best practice to guide your solutions toward the pit of success.</description>
+    <summary>Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.</summary>
+    <releaseNotes>For more information, see: https://simpleinjector.codeplex.com/releases/view/612109</releaseNotes>
+    <copyright>Simple Injector Contributors 2010 - 2015</copyright>
+    <language>en-US</language>
+    <tags>simpleinjector architecture dependency-injection DI easy easy-to-use Inversion-of-Control IOC silverlight mono wp8 pcl</tags>
+  </metadata>
+</package>
