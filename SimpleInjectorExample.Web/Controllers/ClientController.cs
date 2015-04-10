@@ -6,7 +6,6 @@ namespace SimpleInjectorExample.Web.Controllers
     public class ClientController : Controller
     {
         private readonly IClientService _service;
-
         public ClientController(IClientService service)
         {
             _service = service;
